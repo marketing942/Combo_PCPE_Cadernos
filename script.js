@@ -8,7 +8,7 @@
 
 /* ---------- Checkout ---------- */
 const CHECKOUT_BASE =
-  "https://checkout.cppem.com.br/pay/combo-curso-apostila-caderno-de-questoes-vade-mecum-pcpe";
+  "https://checkout.cppem.com.br/pay/combo-bizurado-digital-apostila-vade-mecum-caderno-de-questoes-pcpe";
 
 /* Usados só quando o visitante chega sem parâmetro nenhum
    (link direto, bio, QR code). Se ele vier de um anúncio, os

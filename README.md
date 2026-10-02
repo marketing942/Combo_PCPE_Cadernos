@@ -12,7 +12,7 @@ da parcela continua no vermelho de promoção (`--promo`).
 
 | | Valor |
 |---|---|
-| Checkout | `https://checkout.cppem.com.br/pay/combo-curso-apostila-caderno-de-questoes-vade-mecum-pcpe` |
+| Checkout | `https://checkout.cppem.com.br/pay/combo-bizurado-digital-apostila-vade-mecum-caderno-de-questoes-pcpe` |
 | Preço | De R$ 189,00 · 12x de R$ 14,60 · ou R$ 139,90 à vista (-26%) |
 | `utm_campaign` de fallback | `combo_pcpe` |
 | Evento `iniciar_checkout` | `produto: combo_bizurado_pcpe`, `valor: 139.9` |
